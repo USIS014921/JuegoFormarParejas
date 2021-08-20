@@ -292,7 +292,7 @@ namespace JuegoFormarParejas
             this.ClientSize = new System.Drawing.Size(534, 511);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
-            this.Text = "Matching Game";
+            this.Text = "GrupoX. Juego de parejas";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
