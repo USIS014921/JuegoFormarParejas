@@ -115,7 +115,7 @@ if (timer1.Enabled == true)
             }
 
 
-            MessageBox.Show("¡Has encontrado todas las parejas!", "¡¡Que Bien!!");
+            MessageBox.Show("¡Has encontrado todas las parejas!", "¡Que bien!");
             Close();
         }
 
